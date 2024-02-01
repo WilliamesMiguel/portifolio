@@ -1,0 +1,11 @@
+@media(max-width: 1024px) {
+    .navbar-container {
+        display: none;
+    }
+    .about-me-content {
+        flex-direction: column;
+    }
+}
+.skills-content {
+    flex-direction: column;
+}
